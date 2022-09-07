@@ -29,6 +29,8 @@
    
    <img height="35" width="40"  src="https://cdn-icons-png.flaticon.com/128/2504/2504727.png"><a href="mailto:nairalife99@gmail.com"></a>
   
+  
 </div>
    
    ##
+   ![snake gif](https://github.com/NairaAndrade99/NairaAndrade99/blob/output/github-contribution-grid-snake.svg)
