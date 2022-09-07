@@ -22,10 +22,13 @@
  
 
  <div>
-  <img align="center"  height="35" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  target="_blank"><a href="https://www.linkedin.com/feed/update/urn:li:activity:6972196512206340096/" target="_blank"></a>
+    
+   <a href="https://instagram.com/naira_99" target="_blank"><img align="center"  height="36" width="40" src="https://user-images.githubusercontent.com/101153757/188996401-74bdab8e-231e-4910-b5b1-1937740bb271.png" target="_blank"></a>
+    
+  <img align="center"  height="35" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  target="_blank"><a         href="https://www.linkedin.com/feed/update/urn:li:activity:6972196512206340096/" target="_blank"></a>
    
    <img height="35" width="40"  src="https://cdn-icons-png.flaticon.com/128/2504/2504727.png"><a href="mailto:nairalife99@gmail.com"></a>
   
- 
-
-  </div>
+</div>
+   
+   ##
