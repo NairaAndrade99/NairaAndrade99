@@ -27,9 +27,7 @@
     
   <img align="center"  height="35" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  target="_blank"><a         href="https://www.linkedin.com/feed/update/urn:li:activity:6972196512206340096/" target="_blank"></a>
    
-   
-  
-     <a href="mailto:nairalife99@gmail.com" target="_blank"><img align="center"  height="36" width="40" src="https://cdn-icons-png.flaticon.com/128/2504/2504727.png" target="_blank"></a>
+
   
 </div>
    
