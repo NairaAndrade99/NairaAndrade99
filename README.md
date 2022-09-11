@@ -21,16 +21,13 @@
   ##
  
 
- <div>
+
     
    <a href="https://instagram.com/naira_99" target="_blank"><img align="center"  height="36" width="40" src="https://user-images.githubusercontent.com/101153757/188996401-74bdab8e-231e-4910-b5b1-1937740bb271.png" target="_blank"></a>
     
-    <a href="https://www.linkedin.com/in/naira-silva-andrade-2b9a9b1b5/" target="_blank"><img align="center"  height="36" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a>
     
-  
 
   
-</div>
    
    ##
    ![snake gif](https://github.com/NairaAndrade99/NairaAndrade99/blob/output/github-contribution-grid-snake.svg)
