@@ -1,11 +1,7 @@
 ### Olá !! Bem - vindo ao meu GitHub  ! <img align="center" alt="Naira-CSS" height="40" width="40"  src="https://cdn-icons-png.flaticon.com/128/733/733553.png" />
 
    ##
-<div align="center">
-  <a href="https://github.com/NairaAndrade99">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NairaAndrade99&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=synthwave"/>
-</div>
+
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Naira-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
